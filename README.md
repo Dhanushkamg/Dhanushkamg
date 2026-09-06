@@ -15,7 +15,6 @@
   <a href="https://my-portfolio-rho-rouge-61.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252A34?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/dhanushka-madhushanka-0654662ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dhanushkamg1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Dhanushkamg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -24,7 +23,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Animation" />
 
-Hello! 👋 I'm a 2nd-year **Information Technology (B.Sc. Hons)** undergraduate at the **University of Moratuwa** (Faculty of IT). I am deeply passionate about building scalable, secure, and end-to-end full-stack software solutions.
+Hello! 👋 I'm a 3rd-year **Information Technology (B.Sc. Hons)** undergraduate at the **University of Moratuwa** (Faculty of IT). I am deeply passionate about building scalable, secure, and end-to-end full-stack software solutions.
 
 My core expertise revolves around **Java, Spring Boot, React, and NestJS**, along with robust database design and cloud integration. I enjoy designing systems from the ground up—from database architecture and secure payment processing to AI-powered features and dynamic, highly responsive user interfaces. 🚀
 
