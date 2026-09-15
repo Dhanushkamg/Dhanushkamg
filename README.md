@@ -25,9 +25,9 @@
 
 Hello! 👋 I'm a 3rd-year **Information Technology (B.Sc. Hons)** undergraduate at the **University of Moratuwa** (Faculty of IT). I am deeply passionate about building scalable, secure, and end-to-end full-stack software solutions.
 
-My core expertise revolves around **Java, Spring Boot, React, and NestJS**, along with robust database design and cloud integration. I enjoy designing systems from the ground up—from database architecture and secure payment processing to AI-powered features and dynamic, highly responsive user interfaces. 🚀
+My core expertise revolves around **Java, Spring Boot, React, and NestJS**, along with robust database design. I enjoy designing systems from the ground up — from database architecture and secure payment processing to AI-powered features and geospatial backend services. 🚀
 
-Currently, I am actively expanding my hands-on skillset in **Cloud Infrastructure (AWS & Docker)**, AI/LLM workflows, and microservice architectures.
+Currently, I have hands-on experience with **Docker**, and I'm building toward deeper **AWS** cloud experience (Cloud Practitioner certified).
 
 <br clear="both">
 
@@ -50,27 +50,27 @@ Currently, I am actively expanding my hands-on skillset in **Cloud Infrastructur
 
 ## 🚀 Featured Projects
 
-### 🌟 TechNest Platform (Personal Project)
-A high-performance, full-stack e-commerce platform built with **React 19, Vite, TypeScript, Java 21, and Spring Boot**.
-- **Key Features:** JWT-based authentication, customer & admin role-based access control (RBAC), product and inventory management, cart, wishlist, coupon system, and order lifecycle management.
-- **Payments:** Secure **PayHere** payment gateway integration with backend transaction validation and idempotent webhook handling.
-- **State & Architecture:** TanStack Query and Zustand for optimized state synchronization with a PostgreSQL database.
+### 🩸 Suwa Sarana — Emergency Blood Donation & Dispatch Platform (Personal Project)
+A real-time platform connecting patients, hospitals, and donors, built with **Java 21, Spring Boot, PostgreSQL, and Next.js 14**.
+- **Key Features:** Geospatial donor matching using PostgreSQL's earthdistance extension across progressive search radii, real-time notifications via Server-Sent Events with an SMS fallback path built for offline donors.
+- **AI Integration:** Trilingual (English/Sinhala/Tamil) AI assistant using **Groq API & Llama models** for emergency request intake, plus a medically-grounded FAQ bot.
+- **Infrastructure:** Containerized deployment via Docker Compose with a GitHub Actions CI pipeline running JUnit test suites.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,spring,react,postgres,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,nextjs,ts,docker" />
   </a>
 </p>
 
-🔗 [Repository](https://github.com/Dhanushkamg/technest)
+🔗 [Repository](#)
 
 <br>
 
-### 🛡️ MediCareX Pharmacy Supply Chain System (Group Project)
+### 🛡️ MediCareX Pharmacy Supply Chain System (Group Project — industry-mentored by RootCode)
 An enterprise-level pharmacy supply chain platform connecting customers, pharmacists, suppliers, and administrators across web and mobile.
-- **Key Features:** System architecture with sequence diagrams, secure checkout & PayHere payments, automated PDF invoice generation via jsPDF, and real-time synchronization with Firebase.
-- **AI Integration:** AI-powered health blog featuring automated content generation via **Groq API & Llama models** with pharmacist review and approval workflows.
-- **Multi-Platform:** Cross-platform mobile app built with React Native alongside a Vite/React web administration dashboard and NestJS backend.
+- **Key Features:** Checkout and payment module on **PayHere** with server-side hash verification to prevent transaction tampering, webhook handling for order/payment reconciliation, and automated PDF invoicing via jsPDF.
+- **AI Integration:** AI-powered health content pipeline via **Groq API & Llama models**, gated by a pharmacist approval workflow where rejection triggers automatic regeneration.
+- **Multi-Platform:** Cross-platform mobile app built with React Native, plus a Vite/React web dashboard and NestJS backend.
 
 <p align="left">
   <a href="https://skillicons.dev">
